@@ -29,3 +29,8 @@ Next, 3D models (robots, arms, etc.) are drawn using the same shader but with `i
 5. Final Frame Composition
 After all geometry is drawn, the final frame is composed and presented to the screen. OpenGL handles the rasterization and blending behind the scenes, ensuring smooth visuals and real-time performance. If enabled, a reference sphere is also drawn with reflections to visually test the environment mapping quality.
 This pipeline demonstrates an integration of CPU-side logic (in C++) with GPU-side parallel computation (in GLSL), a key concept in real-time graphics and modern game/visualization engines.
+
+
+![Screenshot_4](https://github.com/user-attachments/assets/0e582406-7897-4b5c-a9c5-2befd4f86aee)
+
+
