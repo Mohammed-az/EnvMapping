@@ -1,0 +1,11 @@
+.idea/
+cmake-build-*/
+.vscode
+.devcontainer
+clang
+*.ini
+build
+CMakeLists.txt.user
+.DS_Store
+logs/*
+/.vs
